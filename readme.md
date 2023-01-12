@@ -4,4 +4,4 @@
 
 ### Links Below
 
-_Visit Franks Labotory Page !!_ https://www.youtube.com/@Frankslaboratory
+_Visit Franks Laboratory Page !!_ https://www.youtube.com/@Frankslaboratory
