@@ -1,4 +1,4 @@
-# JavaScript Sidescroller Game
+# JavaScript Sidescroller Game (Night Doggy Walk)
 
 ## This project is part of a tutorial
 
